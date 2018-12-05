@@ -13,12 +13,13 @@ clustering-study-group
   
   # Spectral clustering
   ## Papers
-  - [Learning Eigenfunctions Links](Learning Eigenfunctions Links)
-  - [](https://www.cs.cmu.edu/~aarti/Class/10701/readings/Luxburg06_TR.pdf)
+  - [A Tutorial on Spectral Clustering by Ulrike von Luxburg](https://www.cs.cmu.edu/~aarti/Class/10701/readings/Luxburg06_TR.pdf)
   - [Spectral Clustering Tutorial by Marina Meila](https://www.stat.washington.edu/mmp/Papers/ch2.2-arxiv.pdf)
+  - [Learning Eigenfunctions Links](http://www.iro.umontreal.ca/~lisa/pointeurs/bengio_eigenfunctions_nc_2004.pdf)
   
   ## Videos
   - [Lecture 30 — The Graph Laplacian Matrix at Stanford](https://www.youtube.com/watch?v=FRZvgNvALJ4)
+  
   # Resources
   - [bioinformaticsalgorithms by Ulrike von Luxburg](http://bioinformaticsalgorithms.com)
   - [Canegie Mellon Computational Biology](http://www.cmu.edu/ms-compbio/)

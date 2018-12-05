@@ -11,7 +11,15 @@ clustering-study-group
   - [Soft k-Means Clustering](https://www.youtube.com/watch?v=fpM0iZTjLhM)
   - [Hierachical Clustering](https://www.youtube.com/watch?v=Aly7YiDjxZs)
   
-  #Resources
-  - [bioinformaticsalgorithms](http://bioinformaticsalgorithms.com)
+  # Spectral clustering
+  ## Papers
+  - [Learning Eigenfunctions Links](Learning Eigenfunctions Links)
+  - [](https://www.cs.cmu.edu/~aarti/Class/10701/readings/Luxburg06_TR.pdf)
+  - [Spectral Clustering Tutorial by Marina Meila](https://www.stat.washington.edu/mmp/Papers/ch2.2-arxiv.pdf)
+  
+  ## Videos
+  - [Lecture 30 — The Graph Laplacian Matrix at Stanford](https://www.youtube.com/watch?v=FRZvgNvALJ4)
+  # Resources
+  - [bioinformaticsalgorithms by Ulrike von Luxburg](http://bioinformaticsalgorithms.com)
   - [Canegie Mellon Computational Biology](http://www.cmu.edu/ms-compbio/)
   - [Rosalind](http://rosalind.info/problems/locations/)
